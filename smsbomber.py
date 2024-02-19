@@ -300,7 +300,7 @@ FACEBOOK  : Mueid Mursalin Rifat
 """)
   os.system("xdg-open https://t.me/Mueidmursalinrifat")
   sys.exit()
-baner= os.system("figlet -f slant Tounik")
+baner= os.system("figlet -f slant RIFAT")
 baner = str(baner)
 baner = baner.replace("0","")
 logo=f""" {baner} \033[1;37m
